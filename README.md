@@ -25,13 +25,14 @@ After you can put the commands into command blocks:
 3. Do this for the number of shulkers in your dispenser.
 
 Dropper elevator location: https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fr54fq76e9cbc1.png%3Fwidth%3D1920%26format%3Dpng%26auto%3Dwebp%26s%3D88e8c81fdcbfc0c2f4960a9d4db5507e7859ab9a
+
 Command block output: https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fenboo1zl9cbc1.png%3Fwidth%3D1920%26format%3Dpng%26auto%3Dwebp%26s%3Dc2f0aded8968110d800f7c3dcec932a92a11ccf0
 *Note* for the command blocks, they all have to be pointing into the next block in the chain, not like how they are shown here.
 
 Signal examples:
-Signal strength 1: https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fopxm6pqm9cbc1.png%3Fwidth%3D1920%26format%3Dpng%26auto%3Dwebp%26s%3Dc5c95816e35292523b3adc291f9dbe879e1d1554
-Signal strength 4: https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fz5ewgmqm9cbc1.png%3Fwidth%3D1920%26format%3Dpng%26auto%3Dwebp%26s%3D70e97f126f72733960a785f69b382fea7c8f065e
-Signal strength 7: https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F0iaa7oqm9cbc1.png%3Fwidth%3D1920%26format%3Dpng%26auto%3Dwebp%26s%3D23bbe72816d2e8eb372f47aa2799ccd57084965a
+1. Signal strength 1: https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fopxm6pqm9cbc1.png%3Fwidth%3D1920%26format%3Dpng%26auto%3Dwebp%26s%3Dc5c95816e35292523b3adc291f9dbe879e1d1554
+2. Signal strength 4: https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fz5ewgmqm9cbc1.png%3Fwidth%3D1920%26format%3Dpng%26auto%3Dwebp%26s%3D70e97f126f72733960a785f69b382fea7c8f065e
+3. Signal strength 7: https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F0iaa7oqm9cbc1.png%3Fwidth%3D1920%26format%3Dpng%26auto%3Dwebp%26s%3D23bbe72816d2e8eb372f47aa2799ccd57084965a
 
 ## TODO
 Add a script to scrape the values and add them to the file automatically for moving positions, changing names, etc.
